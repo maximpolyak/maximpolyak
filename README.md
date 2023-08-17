@@ -1,3 +1,4 @@
+![MasterHead](https://pbs.twimg.com/profile_banners/1670793065068388354/1687344951/1500x500)
 # ¡Hola, mundo! 👋
 
 Soy Maxim, un apasionado desarrollador web en constante búsqueda de nuevos desafíos y oportunidades para aprender. Con más de 6 años de experiencia explorando el emocionante mundo de la tecnología, estoy decidido a impulsar la innovación y mejorar mi perfil profesional.
@@ -6,7 +7,7 @@ Soy Maxim, un apasionado desarrollador web en constante búsqueda de nuevos desa
 
 Desde mis primeros días curioseando con líneas de código hasta mis actuales proyectos y colaboraciones, he cultivado una pasión inquebrantable por el desarrollo web y la tecnología en general. Mi objetivo es no solo crear código, sino también soluciones creativas y funcionales que marquen la diferencia.
 
-- 👨‍💻 Actualmente estudiando.
+- 👨‍💻 Actualmente estudiando un CFGS de Desarrollo de Aplicaciones Web.
 - 🚀 Enfocado en el desarrollo web, pero siempre interesado en áreas como sistemas, datos e inteligencia artificial.
 - 🌐 Compartiendo proyectos, opiniones y experiencias en Instagram, Twitter y demás.
 
