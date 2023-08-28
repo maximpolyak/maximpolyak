@@ -18,7 +18,7 @@ Mi perfil de GitHub es un reflejo de mi viaje de aprendizaje y creación. Aquí 
 ## Conéctate Conmigo 🌐
 
 - [Twitter](https://twitter.com/maximpolyak_)
-- [LinkedIn](https://www.linkedin.com/in/maximpolyak_)
+- [LinkedIn](https://www.linkedin.com/in/maximpolyak/)
 - [Web](https://maximpolyak.com)
 
 ¡Únete a mí mientras exploramos juntos las maravillas del mundo tecnológico! 💡🌟
